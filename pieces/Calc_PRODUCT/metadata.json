@@ -1,0 +1,15 @@
+{
+    "name": "Calc_PRODUCT",
+    "description": "A Piece that makes product of two numbers.",
+    "dependency": {
+        "requirements_file": "requirements_0.txt"
+    },
+    "tags": [
+        "default",
+        "product "
+    ],
+    "style": {
+        "node_label": "product ",
+        "icon_class_name": "fa-solid:fa-xmark"
+    }
+}
